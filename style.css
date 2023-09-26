@@ -814,7 +814,7 @@ footer .copyright .pro-links i:hover {
         right: -220px;
         width: 220px;
         background: rgba(17, 20, 104, 0.45);
-        backdrop-filter: blur(4.5px);
+        backdrop-filter: blur(9.5px);
         border: 1px solid rgba(255, 255, 255, 0.18);
         height: 100vh;
         display: flex;
